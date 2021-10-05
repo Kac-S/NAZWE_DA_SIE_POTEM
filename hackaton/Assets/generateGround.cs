@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class generateGround : MonoBehaviour
+/*public class generateGround : MonoBehaviour
 {
     [SerializeField]
     int scale;
@@ -85,3 +85,4 @@ public class generateGround : MonoBehaviour
     //    }
     //}
 }
+*/
